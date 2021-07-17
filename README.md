@@ -1,16 +1,15 @@
 ### Hi there 👋
+<p>
 
-<!--
-**ajitsinghkaler/ajitsinghkaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [dev.to Clone](https://github.com/ajitsinghkaler/devto-clone)
+- 🌱 I’m currently learning cloud services, AWS, Hashicorp Stack, Django
+- 💬 Ask me about Angular, Typescript
+- 📫 How to reach me: [@ajitsinghkalerhttps://twitter.com/ajitsinghkaler)
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ajit Singh Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ajitsinghkaler&show_icons=true&include_all_commits=true&theme=radical)
+
+![Santosh Yadav Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ajitsinghkaler&layout=compact&theme=radical)
+
+![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajitsinghkaler&theme=dracula)
