@@ -2,7 +2,7 @@
 <p>
 
 - 🔭 I’m currently working on [dev.to Clone](https://github.com/ajitsinghkaler/devto-clone)
-- 🌱 I’m currently learning cloud services, AWS, Hashicorp Stack, Django
+- 🌱 I’m currently learning cloud services, AWS, Hashicorp Stack, Django. Want to follow along what I learn go to [dev.to profile](dev.to/ajitsinghkaler/)
 - 💬 Ask me about Angular, Typescript
 - 📫 How to reach me: [@ajitsinghkaler](https://twitter.com/ajitsinghkaler)
 
