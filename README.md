@@ -10,6 +10,6 @@
 
 ![Ajit Singh Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ajitsinghkaler&show_icons=true&include_all_commits=true&theme=radical)
 
-![Santosh Yadav Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ajitsinghkaler&layout=compact&theme=radical)
+![AJit Singh Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ajitsinghkaler&layout=compact&theme=radical)
 
-![Santosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajitsinghkaler&theme=dracula)
+![Ajit github activity graph](https://activity-graph.herokuapp.com/graph?username=ajitsinghkaler&theme=dracula)
