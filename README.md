@@ -8,7 +8,7 @@
 
 </p>
 
-![Ajit Singh Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ajitsinghkaler&show_icons=true&include_all_commits=true&theme=radical)
+![Ajit Singh Github Stats](https://github-readme-stats.vercel.app/api?username=ajitsinghkaler&show_icons=true&include_all_commits=true&theme=radical)
 
 ![AJit Singh Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ajitsinghkaler&layout=compact&theme=radical)
 
