@@ -11,4 +11,3 @@
 
 ![AJit Singh Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ajitsinghkaler&layout=compact&theme=radical)
 
-![Ajit github activity graph](https://activity-graph.herokuapp.com/graph?username=ajitsinghkaler&theme=dracula)
