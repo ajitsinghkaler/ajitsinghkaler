@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>
 
-- 🌱 I’m currently learning cloud services, AWS, Hashicorp Stack, Django. Want to follow along what I learn go to [by blog](https://ajitblogs.com/)
+- 🌱 I’m currently learning cloud services, AWS, Hashicorp Stack, Django. Want to follow along what I learn go to [by blog](https://dev.to/ajitsinghkaler)
 - 💬 Ask me about Angular, Typescript
 - 📫 How to reach me: [@ajitsinghkaler](https://twitter.com/ajitsinghkaler)
 - I am building a privacy focused [HEIC file converter](https://onlineheicconvert.com)
